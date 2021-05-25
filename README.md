@@ -19,7 +19,7 @@
 
 <summary>진행 상황</summary>
 
-- [ ] Chapter 01. 컴퓨팅 사고
+- [X] Chapter 01. 컴퓨팅 사고
 - [ ] **Quiz 1**
 - [ ] Chapter 02. C언어
 - [ ] **Quiz 2**
