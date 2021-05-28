@@ -25,8 +25,8 @@
 - [X] **Quiz 2**
 - [X] Chapter 03. 배열
 - [X] **Quiz 3**
-- [ ] Chapter 04. 알고리즘
-- [ ] **Quiz 4**
+- [X] Chapter 04. 알고리즘
+- [X] **Quiz 4**
 - [ ] Chapter 05. 메모리
 - [ ] **Quiz 5**
 - [ ] Chapter 06. 자료구조
@@ -49,8 +49,8 @@
 - [X] **Quiz 2**
 - [X] Chapter 03. 배열
 - [X] **Quiz 3**
-- [ ] Chapter 04. 알고리즘
-- [ ] **Quiz 4**
+- [X] Chapter 04. 알고리즘
+- [X] **Quiz 4**
 - [ ] Chapter 05. 메모리
 - [ ] **Quiz 5**
 - [ ] Chapter 06. 자료구조
@@ -97,8 +97,8 @@
 - [X] **Quiz 2**
 - [X] Chapter 03. 배열
 - [X] **Quiz 3**
-- [ ] Chapter 04. 알고리즘
-- [ ] **Quiz 4**
+- [X] Chapter 04. 알고리즘
+- [X] **Quiz 4**
 - [ ] Chapter 05. 메모리
 - [ ] **Quiz 5**
 - [ ] Chapter 06. 자료구조
