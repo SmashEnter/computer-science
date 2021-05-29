@@ -21,12 +21,12 @@
 
 - [X] Chapter 01. 컴퓨팅 사고
 - [X] **Quiz 1**
-- [ ] Chapter 02. C언어
-- [ ] **Quiz 2**
-- [ ] Chapter 03. 배열
-- [ ] **Quiz 3**
-- [ ] Chapter 04. 알고리즘
-- [ ] **Quiz 4**
+- [X] Chapter 02. C언어
+- [X] **Quiz 2**
+- [X] Chapter 03. 배열
+- [X] **Quiz 3**
+- [X] Chapter 04. 알고리즘
+- [X] **Quiz 4**
 - [ ] Chapter 05. 메모리
 - [ ] **Quiz 5**
 - [ ] Chapter 06. 자료구조
@@ -45,12 +45,12 @@
 
 - [X] Chapter 01. 컴퓨팅 사고
 - [X] **Quiz 1**
-- [ ] Chapter 02. C언어
-- [ ] **Quiz 2**
-- [ ] Chapter 03. 배열
-- [ ] **Quiz 3**
-- [ ] Chapter 04. 알고리즘
-- [ ] **Quiz 4**
+- [X] Chapter 02. C언어
+- [X] **Quiz 2**
+- [X] Chapter 03. 배열
+- [X] **Quiz 3**
+- [X] Chapter 04. 알고리즘
+- [X] **Quiz 4**
 - [ ] Chapter 05. 메모리
 - [ ] **Quiz 5**
 - [ ] Chapter 06. 자료구조
@@ -93,12 +93,12 @@
 
 - [X] Chapter 01. 컴퓨팅 사고
 - [X] **Quiz 1**
-- [ ] Chapter 02. C언어
-- [ ] **Quiz 2**
-- [ ] Chapter 03. 배열
-- [ ] **Quiz 3**
-- [ ] Chapter 04. 알고리즘
-- [ ] **Quiz 4**
+- [X] Chapter 02. C언어
+- [X] **Quiz 2**
+- [X] Chapter 03. 배열
+- [X] **Quiz 3**
+- [X] Chapter 04. 알고리즘
+- [X] **Quiz 4**
 - [ ] Chapter 05. 메모리
 - [ ] **Quiz 5**
 - [ ] Chapter 06. 자료구조
