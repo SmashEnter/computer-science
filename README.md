@@ -2,31 +2,32 @@
 
 ![](logo.png)
 
-***
+---
 
 <h1><b>computer science</b></h1>
 
 </div>
 
-[모두를 위한 컴퓨터 과학(CS50 2019)](https://www.boostcourse.org/cs112) 강좌를 통해 컴퓨터 과학의 기초를 공부하며, 매일 한 챕터씩 정리합니다. 
+[모두를 위한 컴퓨터 과학(CS50 2019)](https://www.boostcourse.org/cs112) 강좌를 통해 컴퓨터 과학의 기초를 공부하며, 매일 한 챕터씩 정리합니다.
 
 ## **[ 참여 멤버 및 진행상황 ]**
 
 ### **강미진**
+
 > [깃허브](https://github.com/conagreen) / [블로그](https://cona.tistory.com/)
 
 <details>
 
 <summary>진행 상황</summary>
 
-- [X] Chapter 01. 컴퓨팅 사고
-- [X] **Quiz 1**
-- [X] Chapter 02. C언어
-- [X] **Quiz 2**
-- [X] Chapter 03. 배열
-- [X] **Quiz 3**
-- [X] Chapter 04. 알고리즘
-- [X] **Quiz 4**
+- [x] Chapter 01. 컴퓨팅 사고
+- [x] **Quiz 1**
+- [x] Chapter 02. C언어
+- [x] **Quiz 2**
+- [x] Chapter 03. 배열
+- [x] **Quiz 3**
+- [x] Chapter 04. 알고리즘
+- [x] **Quiz 4**
 - [ ] Chapter 05. 메모리
 - [ ] **Quiz 5**
 - [ ] Chapter 06. 자료구조
@@ -37,14 +38,15 @@
 <br>
 
 ### **김연재**
+
 > [깃허브](https://github.com/danaisboss) / [블로그](https://tuigun.tistory.com/)
 
 <details>
 
 <summary>진행 상황</summary>
 
-- [ ] Chapter 01. 컴퓨팅 사고
-- [ ] **Quiz 1**
+- [x] Chapter 01. 컴퓨팅 사고
+- [x] **Quiz 1**
 - [ ] Chapter 02. C언어
 - [ ] **Quiz 2**
 - [ ] Chapter 03. 배열
@@ -61,20 +63,21 @@
 <br>
 
 ### **강이현**
+
 > [깃허브](https://github.com/kellykang-tech) / [블로그](https://kelly-tech.tistory.com/)
 
 <details>
 
 <summary>진행 상황</summary>
 
-- [X] Chapter 01. 컴퓨팅 사고
-- [X] **Quiz 1**
-- [X] Chapter 02. C언어
-- [X] **Quiz 2**
-- [X] Chapter 03. 배열
-- [X] **Quiz 3**
-- [X] Chapter 04. 알고리즘
-- [X] **Quiz 4**
+- [x] Chapter 01. 컴퓨팅 사고
+- [x] **Quiz 1**
+- [x] Chapter 02. C언어
+- [x] **Quiz 2**
+- [x] Chapter 03. 배열
+- [x] **Quiz 3**
+- [x] Chapter 04. 알고리즘
+- [x] **Quiz 4**
 - [ ] Chapter 05. 메모리
 - [ ] **Quiz 5**
 - [ ] Chapter 06. 자료구조
@@ -85,18 +88,19 @@
 <br>
 
 ### **김준엽**
+
 > [깃허브](https://github.com/Jooonyub) / [블로그](https://jooonyub.github.io/)
 
 <details>
 
 <summary>진행 상황</summary>
 
-- [X] Chapter 01. 컴퓨팅 사고
-- [X] **Quiz 1**
-- [X] Chapter 02. C언어
-- [X] **Quiz 2**
-- [X] Chapter 03. 배열
-- [X] **Quiz 3**
+- [x] Chapter 01. 컴퓨팅 사고
+- [x] **Quiz 1**
+- [x] Chapter 02. C언어
+- [x] **Quiz 2**
+- [x] Chapter 03. 배열
+- [x] **Quiz 3**
 - [ ] Chapter 04. 알고리즘
 - [ ] **Quiz 4**
 - [ ] Chapter 05. 메모리
@@ -109,22 +113,23 @@
 <br>
 
 ### **조항덕**
+
 > [깃허브](https://github.com/bigduk88) / [블로그](https://burningyak.tistory.com/)
 
 <details>
 
 <summary>진행 상황</summary>
 
-- [X] Chapter 01. 컴퓨팅 사고
-- [X] **Quiz 1**
-- [X] Chapter 02. C언어
-- [X] **Quiz 2**
-- [X] Chapter 03. 배열
-- [X] **Quiz 3**
-- [X] Chapter 04. 알고리즘
-- [X] **Quiz 4**
-- [X] Chapter 05. 메모리
-- [X] **Quiz 5**
+- [x] Chapter 01. 컴퓨팅 사고
+- [x] **Quiz 1**
+- [x] Chapter 02. C언어
+- [x] **Quiz 2**
+- [x] Chapter 03. 배열
+- [x] **Quiz 3**
+- [x] Chapter 04. 알고리즘
+- [x] **Quiz 4**
+- [x] Chapter 05. 메모리
+- [x] **Quiz 5**
 - [ ] Chapter 06. 자료구조
 - [ ] **Quiz 6**
 
@@ -133,30 +138,36 @@
 <br>
 
 ## **[ RULES ]**
+
 ① 브랜치명은 본인의 이름으로 한다. (ex. Hamdook-Jo)
 
 ② 본인의 브랜치에만 푸시하고, main은 PR을 통해 통합한다.
 
 ③ 1일 1챕터 작성이 원칙이며, 한 챕터당 두 개의 파일이 업로드되어야 한다.
+
 - 공부한 내용을 정리한 파일
 - 퀴즈를 풀고 난 후 정리한 파일
 
 ④ 조항덕을 버리고 가지 않기.
 
 ⑤ 네이밍 컨벤션
+
 - 커밋 메시지 패턴 : {[날짜] }{verb}{ : }{챕터명 혹은 내용}
+
 ```
 [2021.05.25] Add : Chapter 01. 컴퓨팅 사고
 [2021.05.25] Update : 알고리즘 설명 추가
 ```
 
 - Pull Request 메시지 패턴 : {[날짜] }{Pull Request}{ - 본인이름}
+
 ```
 [2021.05.25] Pull Request - 김준연
 [2021.05.25] Pull Request - 강이혐
 ```
 
-- 파일명 : {[날짜]}{_}{챕터명(인덱스 생략)}
+- 파일명 : {[날짜]}{\_}{챕터명(인덱스 생략)}
+
 ```
 20210525_컴퓨팅_사고
 20210525_Quiz_1
@@ -167,6 +178,7 @@
 ## **[ INDEX ]**
 
 ### Chapter 01. 컴퓨팅 사고
+
 - 2진법
 - 정보의 표현
 - 알고리즘
@@ -175,6 +187,7 @@
 - **Quiz 1**
 
 ### Chapter 02. C언어
+
 - C 기초
 - 문자열
 - 조건문과 루프
@@ -184,6 +197,7 @@
 - **Quiz 2**
 
 ### Chapter 03. 배열
+
 - 컴파일링
 - 디버깅
 - 코드의 디자인
@@ -195,6 +209,7 @@
 - **Quiz 3**
 
 ### Chapter 04. 알고리즘
+
 - 검색 알고리즘
 - 알고리즘 표기법
 - 선형 검색
@@ -206,6 +221,7 @@
 - **Quiz 4**
 
 ### Chapter 05. 메모리
+
 - 메모리 주소
 - 포인터
 - 문자열
@@ -218,6 +234,7 @@
 - **Quiz 5**
 
 ### Chapter 06. 자료구조
+
 - malloc과 포인터 복습
 - 배열의 크기 조정하기
 - 연결 리스트: 도입
