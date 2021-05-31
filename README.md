@@ -36,6 +36,30 @@
 
 <br>
 
+### **김연재**
+> [깃허브](https://github.com/danaisboss) / [블로그](https://tuigun.tistory.com/)
+
+<details>
+
+<summary>진행 상황</summary>
+
+- [ ] Chapter 01. 컴퓨팅 사고
+- [ ] **Quiz 1**
+- [ ] Chapter 02. C언어
+- [ ] **Quiz 2**
+- [ ] Chapter 03. 배열
+- [ ] **Quiz 3**
+- [ ] Chapter 04. 알고리즘
+- [ ] **Quiz 4**
+- [ ] Chapter 05. 메모리
+- [ ] **Quiz 5**
+- [ ] Chapter 06. 자료구조
+- [ ] **Quiz 6**
+
+</details>
+
+<br>
+
 ### **강이현**
 > [깃허브](https://github.com/kellykang-tech) / [블로그](https://kelly-tech.tistory.com/)
 
