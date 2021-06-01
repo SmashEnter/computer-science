@@ -78,9 +78,9 @@
 - [x] **Quiz 3**
 - [x] Chapter 04. 알고리즘
 - [x] **Quiz 4**
-- [ ] Chapter 05. 메모리
-- [ ] **Quiz 5**
-- [ ] Chapter 06. 자료구조
+- [x] Chapter 05. 메모리
+- [x] **Quiz 5**
+- [x] Chapter 06. 자료구조
 - [ ] **Quiz 6**
 
 </details>
@@ -130,8 +130,8 @@
 - [x] **Quiz 4**
 - [x] Chapter 05. 메모리
 - [x] **Quiz 5**
-- [ ] Chapter 06. 자료구조
-- [ ] **Quiz 6**
+- [x] Chapter 06. 자료구조
+- [x] **Quiz 6**
 
 </details>
 
