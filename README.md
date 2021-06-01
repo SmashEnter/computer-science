@@ -47,8 +47,8 @@
 
 - [x] Chapter 01. 컴퓨팅 사고
 - [x] **Quiz 1**
-- [ ] Chapter 02. C언어
-- [ ] **Quiz 2**
+- [x] Chapter 02. C언어
+- [x] **Quiz 2**
 - [ ] Chapter 03. 배열
 - [ ] **Quiz 3**
 - [ ] Chapter 04. 알고리즘
