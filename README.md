@@ -49,8 +49,8 @@
 - [x] **Quiz 1**
 - [x] Chapter 02. C언어
 - [x] **Quiz 2**
-- [ ] Chapter 03. 배열
-- [ ] **Quiz 3**
+- [x] Chapter 03. 배열
+- [x] **Quiz 3**
 - [ ] Chapter 04. 알고리즘
 - [ ] **Quiz 4**
 - [ ] Chapter 05. 메모리
