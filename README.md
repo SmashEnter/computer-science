@@ -55,8 +55,8 @@
 - [x] **Quiz 4**
 - [x] Chapter 05. 메모리
 - [x] **Quiz 5**
-- [ ] Chapter 06. 자료구조
-- [ ] **Quiz 6**
+- [x] Chapter 06. 자료구조
+- [x] **Quiz 6**
 
 </details>
 
